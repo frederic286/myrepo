@@ -1,0 +1,4 @@
+npm init -y
+npm install @solana/web3.js
+
+node solana_example.js
